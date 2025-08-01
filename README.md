@@ -167,7 +167,7 @@ Train: 0, Test: 3, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, 
 Train: 0, Test: 4, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 24.0
 Train: 0, Test: 5, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 18.0
 
-       Average Score:  18.666666666666668 **( **the best result**)**
+       Average Score:  18.666666666666668 (**the best result**)
        
 =========================================================   
 Train: 1, Test: 0, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 16.0
